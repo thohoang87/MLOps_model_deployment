@@ -11,7 +11,12 @@ To run the example in a machine running Docker and docker-compose, run:
 git clone https://github.com/thohoang87/MLOps_model_deployment.git
 ```
 
-- find where your downloaded folder is in your computer, then copy its path, and run:
+- go to the folder:
+```
+cd MLOps_model_deployment
+```
+
+if it doesn't work, try: find where your downloaded folder is in your computer, then copy its path, and run:
 ```
 cd "(path)"
 ```
